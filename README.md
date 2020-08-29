@@ -2,7 +2,7 @@ Login and Signup page which validations in React. Upon successful login opens ho
 
 ## Run below commands in order
 
-In the project directory, you can run:
+In the project directory, you have to run:
 
 ### `npm install`
 To install all the nodes modules and dependencies used.
