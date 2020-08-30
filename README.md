@@ -1,4 +1,5 @@
-Login and Signup page which validations in React. Upon successful login opens homepage.
+Login and Signup page
+On successful login it opens homepage.
 
 ## Run below commands in order
 
