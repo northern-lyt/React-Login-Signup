@@ -20,4 +20,12 @@ You will also see any lint errors in the console.
 
 # Screenshots
 
+SignUp Page
+![Screenshot (326)](https://user-images.githubusercontent.com/62142963/109106807-9247bd80-7756-11eb-9101-9dc04a464153.png)
+
+OTP Screen
+![Screenshot (327)](https://user-images.githubusercontent.com/62142963/109106827-9a9ff880-7756-11eb-8dfa-6a19a8eaf8b7.png)
+
+SignIn Page
+![Screenshot (325)](https://user-images.githubusercontent.com/62142963/109106839-9f64ac80-7756-11eb-9b54-f1dfb5990177.png)
 
