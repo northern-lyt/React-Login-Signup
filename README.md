@@ -1,6 +1,6 @@
 Login and Signup page<br />
-After filling correct credential you are redirected to OTP screen.
-After Otp verification it goes to Login Page(SignIn). 
+After filling correct credential you are redirected to OTP screen.<br/>
+After Otp verification it goes to Login Page(SignIn).<br/> 
 On successful login it opens homepage.
 
 ## Run below commands in order
